@@ -1,0 +1,3 @@
+{"balloonsAmount":11,"badBalloonsAmount":0,"levelParam":1,"countOfCLicks":15}
+{"balloonsAmount":0,"badBalloonsAmount":0,"levelParam":1,"countOfCLicks":30}
+{"balloonsAmount":0,"badBalloonsAmount":0,"levelParam":1,"countOfCLicks":34}
